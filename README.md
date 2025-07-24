@@ -5,9 +5,9 @@ An AI-powered **chatbot with a 3D avatar** capable of real-time lipsync, combini
 ---
 
 ## 🎥 Demo
-![Demo Screenshot](demo/screenshots/ui.png)
+![Demo Screenshot](Demo/Visuals/UI.png)
 
-▶ **[Watch the full demo video](demo/demo.mp4)**
+▶ **[Watch the full demo video](Demo/demo.webm)**
 
 ---
 
