@@ -24,6 +24,14 @@ An AI-powered **chatbot with a 3D avatar** capable of real-time lipsync, combini
 
 ---
 
+
+## 🧠 LangGraph Flow
+This project uses **LangGraph** to manage the chatbot's conversational flow.
+
+➡ [**View the Full LangGraph Flow Here**][Demo](Langgraph/langgraph_flow.png)
+
+---
+
 ## 🛠 Tech Stack
 - **Unity + SALSA Suite** – Avatar and real-time lipsync.
 - **LangGraph** – Conversation flow.
@@ -51,8 +59,3 @@ An AI-powered **chatbot with a 3D avatar** capable of real-time lipsync, combini
 ## 🙏 Acknowledgements & Inspiration
 This project was heavily inspired by the incredible work of [Wassim SAMAD](https://github.com/wass08).  
 His projects and ideas motivated me to build my own chatbot with a 3D avatar and lipsync.
-
-## 🧠 LangGraph Flow
-This project uses **LangGraph** to manage the chatbot's conversational flow.
-
-➡ [**View the Full LangGraph Flow Here**](Langgraph/langgraph_flow.png)
