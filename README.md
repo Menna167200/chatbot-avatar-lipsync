@@ -28,14 +28,3 @@ An AI-powered **chatbot with a 3D avatar** capable of real-time lipsync, combini
 This project uses **LangGraph** to manage the chatbot's conversational flow.
 
 ➡ [**View the Full LangGraph Flow Here**](Langgraph/langgraph_flow.png)
-
----
-
-### Architecture Overview
-```mermaid
-graph TD
-A[Voice/Text Input] --> B[LangGraph Flow]
-B --> C[Chatbot Response]
-C --> D[TTS Audio Generation]
-D --> E[FastAPI Server]
-E --> F["Unity Avatar (fetches audio + lipsync)"]
