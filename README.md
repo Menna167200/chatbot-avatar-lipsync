@@ -22,8 +22,35 @@ An AI-powered **chatbot with a 3D avatar** capable of real-time lipsync, combini
 - **Frontend:** React page.
 - **Audio Fetch System:** A **custom Unity C# script** automatically fetches the latest audio response from **backend**.
 
+---
+
+## 🛠 Tech Stack
+- **Unity + SALSA Suite** – Avatar and real-time lipsync.
+- **LangGraph** – Conversation flow.
+- **FastAPI** – Backend server for chatbot logic and audio processing.
+- **React** – Frontend UI for user input.
+- **Kaggle GPU** – For Whisper & TTS.
+- **LocalTunnel** – Free server exposure.
+- **Models:**
+  - Whisper Large v3
+  - Mistral Nemo (OpenRouter)
+  - VITS TTS (tts_models/en/vctk/vits)
+
+
 
 ---
+
+## 📌 How It Works
+1. User speaks or types a message.
+2. LangGraph processes the input and generates a chatbot response.
+3. Response is converted to speech (TTS) by the backend.
+4. Unity Avatar fetches the audio file and performs lipsync using SALSA Suite.
+
+---
+
+## 🙏 Acknowledgements & Inspiration
+This project was heavily inspired by the incredible work of [Wassim SAMAD](https://github.com/wass08).  
+His projects and ideas motivated me to build my own chatbot with a 3D avatar and lipsync.
 
 ## 🧠 LangGraph Flow
 This project uses **LangGraph** to manage the chatbot's conversational flow.
