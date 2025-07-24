@@ -18,9 +18,10 @@ An AI-powered **chatbot with a 3D avatar** capable of real-time lipsync, combini
   - **Speech-to-Text:** Whisper Large v3
   - **LLM Chatbot:** Mistral Nemo (OpenRouter)
   - **Text-to-Speech:** `tts_models/en/vctk/vits`
-- **Backend:** FastAPI running on Kaggle (GPU for Whisper + TTS).
-- **Frontend:** React page, connected via LocalTunnel.
-- **Avatar Fetch System:** Custom C# script with timestamp mechanism to avoid repeated audio fetching.
+- **Backend:** FastAPI running on Kaggle and exposed via **LocalTunnel**.
+- **Frontend:** React page.
+- **Audio Fetch System:** A **custom Unity C# script** ensures the avatar fetches the correct audio file for lipsync.
+
 
 ---
 
