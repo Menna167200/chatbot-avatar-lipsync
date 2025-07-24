@@ -24,7 +24,14 @@ An AI-powered **chatbot with a 3D avatar** capable of real-time lipsync, combini
 
 ---
 
-## 🏗 Architecture
+## 🧠 LangGraph Flow
+This project uses **LangGraph** to manage the chatbot's conversational flow.
+
+➡ [**View the Full LangGraph Flow Here**](Langgraph/langgraph_flow.png)
+
+---
+
+### Architecture Overview
 ```mermaid
 graph TD
 A[Voice/Text Input] --> B[LangGraph Flow]
