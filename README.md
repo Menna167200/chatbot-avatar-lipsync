@@ -59,3 +59,10 @@ This project uses **LangGraph** to manage the chatbot's conversational flow.
 ## 🙏 Acknowledgements & Inspiration
 This project was inspired by the incredible work of [Wassim SAMAD](https://github.com/wass08).  
 His projects and ideas on 3d avatars motivated me to build my own chatbot with a 3D avatar and lipsync.
+
+---
+
+## 💡 Final Note
+This project was built entirely using **open-source models** and **free servers** (Kaggle for GPU, LocalTunnel for exposure).  
+I hope this demonstrates that you can build high-quality, innovative projects **without spending a lot of money**—just with creativity, persistence, and open tools.
+
