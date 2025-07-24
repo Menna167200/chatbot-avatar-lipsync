@@ -51,7 +51,7 @@ This project uses **LangGraph** to manage the chatbot's conversational flow.
 ## 📌 How It Works
 1. User speaks or types a message.
 2. LangGraph processes the input and generates a chatbot response.
-3. Response is converted to speech (TTS) by the backend.
+3. Response is converted to speech (TTS).
 4. Unity Avatar fetches the audio file and performs lipsync using SALSA Suite.
 
 ---
