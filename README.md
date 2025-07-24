@@ -20,7 +20,7 @@ An AI-powered **chatbot with a 3D avatar** capable of real-time lipsync, combini
   - **Text-to-Speech:** `tts_models/en/vctk/vits`
 - **Backend:** FastAPI running on Kaggle and exposed via **LocalTunnel**.
 - **Frontend:** React page.
-- **Audio Fetch System:** A **custom Unity C# script** automatically fetches the latest audio response from **the backend**.
+- **Audio Fetch System:** A **custom Unity C# script** automatically fetches the latest audio response from **backend**.
 
 
 ---
