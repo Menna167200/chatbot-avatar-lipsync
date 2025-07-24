@@ -66,3 +66,9 @@ His projects and ideas on 3d avatars motivated me to build my own chatbot with a
 This project was built entirely using **open-source models** and **free servers** (Kaggle for GPU, LocalTunnel for exposure).  
 I hope this demonstrates that you can build high-quality, innovative projects **without spending a lot of money**—just with creativity, persistence, and open tools.
 
+---
+
+## 📄 License
+This repository is a **showcase project**.  
+The source code is **proprietary and not publicly available**, but you are welcome to explore the architecture, demo, and ideas.
+
